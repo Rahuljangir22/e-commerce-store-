@@ -95,3 +95,5 @@ Cart.propTypes = {
 };
 
 export default Cart;
+
+// Ensure defensive checks render early on empty carts to prevent bugs.
