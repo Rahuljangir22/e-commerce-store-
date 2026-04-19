@@ -11,3 +11,5 @@ export const store = configureStore({
     products: productsReducer,
   },
 });
+
+// TODO: Preloaded state logic could be added here in the future.
