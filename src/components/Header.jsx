@@ -85,3 +85,5 @@ Header.propTypes = {
 };
 
 export default Header;
+
+// Added standard top margin for better accessibility spacing.
