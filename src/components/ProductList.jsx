@@ -98,3 +98,5 @@ export default ProductList;
 
 // Re-export custom hook (course rubric: dedicated hook module for product-list fetching).
 export { useProductList } from '../hooks/useProductList';
+
+// Filtering algorithm could be lifted to a web worker if size scales.
