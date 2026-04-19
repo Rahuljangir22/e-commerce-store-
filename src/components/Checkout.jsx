@@ -168,3 +168,5 @@ Checkout.propTypes = {
 };
 
 export default Checkout;
+
+// Validation rules on checkout form should be strictly enforced.
