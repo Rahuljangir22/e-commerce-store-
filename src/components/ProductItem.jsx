@@ -105,3 +105,5 @@ ProductItem.propTypes = {
 };
 
 export default ProductItem;
+
+// Note: Product item component remains decoupled from data fetches.
